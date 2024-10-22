@@ -1,3 +1,5 @@
+Task from https://java-programming.mooc.fi/part-2/4-methods
+
 Part 1. Printing stars
 Define a method called printStars that prints the given number of stars and a line break.
 // i.e. printStars(5); --> prints *****
